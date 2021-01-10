@@ -1,0 +1,17 @@
+/gradle/
+/.idea/
+/build/
+/client/
+./.gradle
+/matches/
+/test/
+/access.txt
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/LICENSE
+/README.md
+/version.txt
+
+
